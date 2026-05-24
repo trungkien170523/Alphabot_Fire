@@ -1,0 +1,4044 @@
+[
+    {
+        "index": 0,
+        "timestamp": "2026-05-05 09:37:15.263475",
+        "data": {
+            "system": "Alphabot Firefighting Blockchain",
+            "message": "Genesis Block"
+        },
+        "previous_hash": "0",
+        "nonce": 0,
+        "hash": "93c974b0841f70d049e978d00c37de6ef42d017fb6c718a39971c663ac956310"
+    },
+    {
+        "index": 1,
+        "timestamp": "2026-05-05 09:40:49.602561",
+        "data": {
+            "time": "2026-05-05 09:40:49.602523",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260505_094049.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 11248,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 131713,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "93c974b0841f70d049e978d00c37de6ef42d017fb6c718a39971c663ac956310",
+        "nonce": 1197,
+        "hash": "0006d45e634d6084577f833886fe3e365a470dd46dfe409c1a3eccb42cab29dc"
+    },
+    {
+        "index": 2,
+        "timestamp": "2026-05-05 09:40:54.645116",
+        "data": {
+            "time": "2026-05-05 09:40:54.645083",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260505_094054.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 5318,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 9225,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 11191,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 106404,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "0006d45e634d6084577f833886fe3e365a470dd46dfe409c1a3eccb42cab29dc",
+        "nonce": 11642,
+        "hash": "00085ac02e24603e48a4a366e7f18d2e90c7cccf4f4eb38a4e4956f049c54d8c"
+    },
+    {
+        "index": 3,
+        "timestamp": "2026-05-05 09:40:59.669649",
+        "data": {
+            "time": "2026-05-05 09:40:59.669607",
+            "mode": "agriculture",
+            "danger_level": "LOW",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260505_094059.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 20814,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 6776,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 47549,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "00085ac02e24603e48a4a366e7f18d2e90c7cccf4f4eb38a4e4956f049c54d8c",
+        "nonce": 3127,
+        "hash": "0001a226cd963c9e59bdf13bd2fd99bba5f1effc46f5532dce0cfff2350ff34b"
+    },
+    {
+        "index": 4,
+        "timestamp": "2026-05-05 09:41:04.692044",
+        "data": {
+            "time": "2026-05-05 09:41:04.692015",
+            "mode": "agriculture",
+            "danger_level": "LOW",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260505_094104.jpg",
+            "detections": [
+                {
+                    "class_name": "fire",
+                    "confidence": 0.75,
+                    "area": 4027,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 27022,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 6953,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 7985,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "0001a226cd963c9e59bdf13bd2fd99bba5f1effc46f5532dce0cfff2350ff34b",
+        "nonce": 2577,
+        "hash": "0007089d29f8cbe1f8e08c121d81dad5b5f48fa822c9a53cbbc1ec386cfd2b19"
+    },
+    {
+        "index": 5,
+        "timestamp": "2026-05-05 09:41:09.721125",
+        "data": {
+            "time": "2026-05-05 09:41:09.721101",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260505_094109.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 150963,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "0007089d29f8cbe1f8e08c121d81dad5b5f48fa822c9a53cbbc1ec386cfd2b19",
+        "nonce": 908,
+        "hash": "0008c688807102b3f70210420cc13f45a8548300f60a096b42ada988a3a00980"
+    },
+    {
+        "index": 6,
+        "timestamp": "2026-05-05 09:41:14.745526",
+        "data": {
+            "time": "2026-05-05 09:41:14.745506",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260505_094114.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 33738,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 69710,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "0008c688807102b3f70210420cc13f45a8548300f60a096b42ada988a3a00980",
+        "nonce": 196,
+        "hash": "00074ff1f866c89f7d3864a19573fdd77b0ae8b40fdb56ba577274b3bf0fc483"
+    },
+    {
+        "index": 7,
+        "timestamp": "2026-05-05 09:41:19.766908",
+        "data": {
+            "time": "2026-05-05 09:41:19.766881",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260505_094119.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 34235,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 72354,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "00074ff1f866c89f7d3864a19573fdd77b0ae8b40fdb56ba577274b3bf0fc483",
+        "nonce": 1346,
+        "hash": "0003a7c69cee65aa2fe486f8448ab5a6e4277cc2944ef1741f819de961735a65"
+    },
+    {
+        "index": 8,
+        "timestamp": "2026-05-05 09:41:24.779771",
+        "data": {
+            "time": "2026-05-05 09:41:24.779752",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260505_094124.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 105585,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "0003a7c69cee65aa2fe486f8448ab5a6e4277cc2944ef1741f819de961735a65",
+        "nonce": 358,
+        "hash": "000dc26ac9f66253fd46ce120193e83a5936ce1943a95a3dde8782d6a5c03ce1"
+    },
+    {
+        "index": 9,
+        "timestamp": "2026-05-05 09:41:29.807452",
+        "data": {
+            "time": "2026-05-05 09:41:29.807424",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260505_094129.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 38823,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 70976,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "000dc26ac9f66253fd46ce120193e83a5936ce1943a95a3dde8782d6a5c03ce1",
+        "nonce": 3067,
+        "hash": "000fa27140d657241ad1471726e4f96cb602e96219edd91b0d9d2a1320f6e942"
+    },
+    {
+        "index": 10,
+        "timestamp": "2026-05-05 09:41:34.815327",
+        "data": {
+            "time": "2026-05-05 09:41:34.815303",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260505_094134.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 38641,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 70339,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "000fa27140d657241ad1471726e4f96cb602e96219edd91b0d9d2a1320f6e942",
+        "nonce": 227,
+        "hash": "0009c9554955c06da99b79a18b43eaa698067fe6d776c5cfcb5cecf89fc9c8d9"
+    },
+    {
+        "index": 11,
+        "timestamp": "2026-05-05 09:41:39.814820",
+        "data": {
+            "time": "2026-05-05 09:41:39.814798",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260505_094139.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 36854,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 71132,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "0009c9554955c06da99b79a18b43eaa698067fe6d776c5cfcb5cecf89fc9c8d9",
+        "nonce": 4460,
+        "hash": "0005d9f7835ee0c1603112f216636f14970f6cb17c0d3fb70faf652029dcead4"
+    },
+    {
+        "index": 12,
+        "timestamp": "2026-05-05 09:41:44.826506",
+        "data": {
+            "time": "2026-05-05 09:41:44.826477",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260505_094144.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 108906,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "0005d9f7835ee0c1603112f216636f14970f6cb17c0d3fb70faf652029dcead4",
+        "nonce": 9256,
+        "hash": "0002d9dfad527233c7ade5b9789d15eda073aad55547afcb193d0b38c4b0230f"
+    },
+    {
+        "index": 13,
+        "timestamp": "2026-05-05 09:41:49.849402",
+        "data": {
+            "time": "2026-05-05 09:41:49.849381",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260505_094149.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 9959,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 105975,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 16349,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "0002d9dfad527233c7ade5b9789d15eda073aad55547afcb193d0b38c4b0230f",
+        "nonce": 96,
+        "hash": "0004d497ecbe2a2a229e7f778af82034744e2b6d9321b5bc5c5cc7559028db40"
+    },
+    {
+        "index": 14,
+        "timestamp": "2026-05-05 09:41:54.878129",
+        "data": {
+            "time": "2026-05-05 09:41:54.878093",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260505_094154.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 111976,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "0004d497ecbe2a2a229e7f778af82034744e2b6d9321b5bc5c5cc7559028db40",
+        "nonce": 4331,
+        "hash": "0002d649f8429f65137eaeee67584021ebbdd716a02a450d4ee36f5fc8d03a31"
+    },
+    {
+        "index": 15,
+        "timestamp": "2026-05-05 09:41:59.904358",
+        "data": {
+            "time": "2026-05-05 09:41:59.904335",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260505_094159.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 40677,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 71406,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "0002d649f8429f65137eaeee67584021ebbdd716a02a450d4ee36f5fc8d03a31",
+        "nonce": 314,
+        "hash": "00086867e919451cf76a7e8aca9c32c042210b6aeda965499948311ec5fa1ab2"
+    },
+    {
+        "index": 16,
+        "timestamp": "2026-05-05 09:42:04.932147",
+        "data": {
+            "time": "2026-05-05 09:42:04.932129",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260505_094204.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 113101,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "00086867e919451cf76a7e8aca9c32c042210b6aeda965499948311ec5fa1ab2",
+        "nonce": 2808,
+        "hash": "0008ce26ff66aca0b58def26e6daf0ef4fd6c82df8c3451782525b5f9af797d9"
+    },
+    {
+        "index": 17,
+        "timestamp": "2026-05-05 09:42:09.967356",
+        "data": {
+            "time": "2026-05-05 09:42:09.967289",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260505_094209.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 40874,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 71419,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "0008ce26ff66aca0b58def26e6daf0ef4fd6c82df8c3451782525b5f9af797d9",
+        "nonce": 8559,
+        "hash": "0003f9fd691d6bdc416249f3593789b7061219bd2ab7738de1100bfc0cf66c63"
+    },
+    {
+        "index": 18,
+        "timestamp": "2026-05-05 09:42:14.978478",
+        "data": {
+            "time": "2026-05-05 09:42:14.978455",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260505_094214.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 41047,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 71570,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "0003f9fd691d6bdc416249f3593789b7061219bd2ab7738de1100bfc0cf66c63",
+        "nonce": 2596,
+        "hash": "000b2d4bf8a05215a087a39eef2734345252957b284a1d0144ed3dfbf4ce1a06"
+    },
+    {
+        "index": 19,
+        "timestamp": "2026-05-05 09:42:19.987008",
+        "data": {
+            "time": "2026-05-05 09:42:19.986993",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260505_094219.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 37509,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 70729,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "000b2d4bf8a05215a087a39eef2734345252957b284a1d0144ed3dfbf4ce1a06",
+        "nonce": 8623,
+        "hash": "000ccdae8b31e6ae07bce594083e6ceccc85243c3f3cf540400a2c208df24fb2"
+    },
+    {
+        "index": 20,
+        "timestamp": "2026-05-05 09:42:25.009475",
+        "data": {
+            "time": "2026-05-05 09:42:25.009433",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260505_094225.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 37558,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 70648,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "000ccdae8b31e6ae07bce594083e6ceccc85243c3f3cf540400a2c208df24fb2",
+        "nonce": 3028,
+        "hash": "00068f1f913586a748ecf9e486778ee4071b67f936709cb7f7a2e0892f3df191"
+    },
+    {
+        "index": 21,
+        "timestamp": "2026-05-05 09:42:30.011550",
+        "data": {
+            "time": "2026-05-05 09:42:30.011506",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260505_094230.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 39566,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 69992,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "00068f1f913586a748ecf9e486778ee4071b67f936709cb7f7a2e0892f3df191",
+        "nonce": 209,
+        "hash": "0007d576870d70cb969b092c741fedc91b6c26cfa36b556e14e08a8390dedd3a"
+    },
+    {
+        "index": 22,
+        "timestamp": "2026-05-05 09:42:35.033310",
+        "data": {
+            "time": "2026-05-05 09:42:35.033273",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260505_094235.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 109219,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "0007d576870d70cb969b092c741fedc91b6c26cfa36b556e14e08a8390dedd3a",
+        "nonce": 11312,
+        "hash": "0000e0cbdbab22e9298657179828a7e90b36dc61f28c1811aae6d5af5141c328"
+    },
+    {
+        "index": 23,
+        "timestamp": "2026-05-05 09:42:40.044256",
+        "data": {
+            "time": "2026-05-05 09:42:40.044232",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260505_094240.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 112608,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "0000e0cbdbab22e9298657179828a7e90b36dc61f28c1811aae6d5af5141c328",
+        "nonce": 13316,
+        "hash": "0009b10c275ddb738fa415a6048a50699e3fc495c0cd907ce41e41d54ad007c6"
+    },
+    {
+        "index": 24,
+        "timestamp": "2026-05-05 09:42:45.076034",
+        "data": {
+            "time": "2026-05-05 09:42:45.075993",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260505_094245.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 111668,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "0009b10c275ddb738fa415a6048a50699e3fc495c0cd907ce41e41d54ad007c6",
+        "nonce": 2613,
+        "hash": "0005ef444198a7bf6384bf0a740dd4a570d28f4b842a81e4307de95683a24517"
+    },
+    {
+        "index": 25,
+        "timestamp": "2026-05-05 09:42:50.077356",
+        "data": {
+            "time": "2026-05-05 09:42:50.077332",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260505_094250.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 112303,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "0005ef444198a7bf6384bf0a740dd4a570d28f4b842a81e4307de95683a24517",
+        "nonce": 240,
+        "hash": "000b6a9707921d8c90f8ce36c6f778ffaa87dc961bc2c982d88fa3245caaf928"
+    },
+    {
+        "index": 26,
+        "timestamp": "2026-05-05 09:42:55.108610",
+        "data": {
+            "time": "2026-05-05 09:42:55.108592",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260505_094255.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 112473,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "000b6a9707921d8c90f8ce36c6f778ffaa87dc961bc2c982d88fa3245caaf928",
+        "nonce": 5351,
+        "hash": "0006d10c429861795a3e34b881fba79070e04096bdb637fbc200fae5588a4916"
+    },
+    {
+        "index": 27,
+        "timestamp": "2026-05-05 09:43:00.137424",
+        "data": {
+            "time": "2026-05-05 09:43:00.137401",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260505_094300.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 112072,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "0006d10c429861795a3e34b881fba79070e04096bdb637fbc200fae5588a4916",
+        "nonce": 6059,
+        "hash": "000b5fe19801b2f0a09e0f05829f72d0cd7539c9841fb59abc7fc3f1785317c2"
+    },
+    {
+        "index": 28,
+        "timestamp": "2026-05-05 09:43:05.161152",
+        "data": {
+            "time": "2026-05-05 09:43:05.161128",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260505_094305.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 112362,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "000b5fe19801b2f0a09e0f05829f72d0cd7539c9841fb59abc7fc3f1785317c2",
+        "nonce": 258,
+        "hash": "000414ba47cf33634d0ede1b663c03c7a922bb2f7d466af672e83fbc47b824d9"
+    },
+    {
+        "index": 29,
+        "timestamp": "2026-05-05 09:43:10.184699",
+        "data": {
+            "time": "2026-05-05 09:43:10.184671",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260505_094310.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 112434,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "000414ba47cf33634d0ede1b663c03c7a922bb2f7d466af672e83fbc47b824d9",
+        "nonce": 620,
+        "hash": "00059cec20d355c53d078e2e3c86c9ce303b3f6042b34f09a7482ca15ed2dad9"
+    },
+    {
+        "index": 30,
+        "timestamp": "2026-05-05 09:43:15.184836",
+        "data": {
+            "time": "2026-05-05 09:43:15.184798",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260505_094315.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 112258,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "00059cec20d355c53d078e2e3c86c9ce303b3f6042b34f09a7482ca15ed2dad9",
+        "nonce": 4048,
+        "hash": "000c475890a62d777b1cd718a11d76134b4253c4ffba06a8411cd55c408ea2d6"
+    },
+    {
+        "index": 31,
+        "timestamp": "2026-05-05 09:43:20.184583",
+        "data": {
+            "time": "2026-05-05 09:43:20.184551",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260505_094320.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 112005,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "000c475890a62d777b1cd718a11d76134b4253c4ffba06a8411cd55c408ea2d6",
+        "nonce": 197,
+        "hash": "000cca3949801c81a39437b4301dec4626d2a06df2a3f47df87b1d562e420c69"
+    },
+    {
+        "index": 32,
+        "timestamp": "2026-05-05 09:43:25.216580",
+        "data": {
+            "time": "2026-05-05 09:43:25.216549",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260505_094325.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 112467,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "000cca3949801c81a39437b4301dec4626d2a06df2a3f47df87b1d562e420c69",
+        "nonce": 1370,
+        "hash": "00044a84fe4daebaaeaa4e226b9f55d61bdc5c9d71bdcd18e65c4f8fef06a183"
+    },
+    {
+        "index": 33,
+        "timestamp": "2026-05-05 09:43:30.230675",
+        "data": {
+            "time": "2026-05-05 09:43:30.230653",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260505_094330.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 110899,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "00044a84fe4daebaaeaa4e226b9f55d61bdc5c9d71bdcd18e65c4f8fef06a183",
+        "nonce": 4775,
+        "hash": "0009e30004a9e2313e0674fdb110390af0f3cc170a2ce542032f9ec8d60c1ee9"
+    },
+    {
+        "index": 34,
+        "timestamp": "2026-05-05 09:43:35.258784",
+        "data": {
+            "time": "2026-05-05 09:43:35.258755",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260505_094335.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 111317,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "0009e30004a9e2313e0674fdb110390af0f3cc170a2ce542032f9ec8d60c1ee9",
+        "nonce": 1766,
+        "hash": "000ac6ffbea513055bcfc453be5ac12e14a468b7a31e6fca2d32b67e085a66c7"
+    },
+    {
+        "index": 35,
+        "timestamp": "2026-05-05 09:43:40.278996",
+        "data": {
+            "time": "2026-05-05 09:43:40.278973",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260505_094340.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 112180,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "000ac6ffbea513055bcfc453be5ac12e14a468b7a31e6fca2d32b67e085a66c7",
+        "nonce": 201,
+        "hash": "000187a074ff8d1600af7c7c8f11fda5f479537a1646968f0c6a6a89e6076c50"
+    },
+    {
+        "index": 36,
+        "timestamp": "2026-05-05 09:43:45.300829",
+        "data": {
+            "time": "2026-05-05 09:43:45.300809",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260505_094345.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 111792,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "000187a074ff8d1600af7c7c8f11fda5f479537a1646968f0c6a6a89e6076c50",
+        "nonce": 208,
+        "hash": "00082f0406f988e72ee2587f63ed286b1b167cc91b8e79a3340a75050edf8c7f"
+    },
+    {
+        "index": 37,
+        "timestamp": "2026-05-05 09:43:50.320121",
+        "data": {
+            "time": "2026-05-05 09:43:50.320098",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260505_094350.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 15686,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 83395,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "00082f0406f988e72ee2587f63ed286b1b167cc91b8e79a3340a75050edf8c7f",
+        "nonce": 1311,
+        "hash": "00023f651b92fb86b3a23f7e108b9cdb6e3eca6681a31430a178363dd652b2c2"
+    },
+    {
+        "index": 38,
+        "timestamp": "2026-05-05 09:43:55.326739",
+        "data": {
+            "time": "2026-05-05 09:43:55.326717",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260505_094355.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 114060,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "00023f651b92fb86b3a23f7e108b9cdb6e3eca6681a31430a178363dd652b2c2",
+        "nonce": 425,
+        "hash": "0005de6ab5a03355f6f57a12b1e942b1c1bc52e6e5349285e7e774c0891515c0"
+    },
+    {
+        "index": 39,
+        "timestamp": "2026-05-05 09:44:00.349676",
+        "data": {
+            "time": "2026-05-05 09:44:00.349655",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260505_094400.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 114287,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "0005de6ab5a03355f6f57a12b1e942b1c1bc52e6e5349285e7e774c0891515c0",
+        "nonce": 411,
+        "hash": "000a477fb80f0f224aab998c802f77a30ad23935f8b6caf3cc374ecf57f25c01"
+    },
+    {
+        "index": 40,
+        "timestamp": "2026-05-05 09:44:05.376399",
+        "data": {
+            "time": "2026-05-05 09:44:05.376377",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260505_094405.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 113908,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "000a477fb80f0f224aab998c802f77a30ad23935f8b6caf3cc374ecf57f25c01",
+        "nonce": 7546,
+        "hash": "000d33c519cbbfde95346a58993f864d2633a7f57cd892b2d36881894e6f4024"
+    },
+    {
+        "index": 41,
+        "timestamp": "2026-05-05 09:44:10.376610",
+        "data": {
+            "time": "2026-05-05 09:44:10.376592",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260505_094410.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 113928,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "000d33c519cbbfde95346a58993f864d2633a7f57cd892b2d36881894e6f4024",
+        "nonce": 7149,
+        "hash": "00058eec8534d7ea918c16a9c480e237744a0d81cb7f10a3eb0735e8cc4133e7"
+    },
+    {
+        "index": 42,
+        "timestamp": "2026-05-05 09:44:15.402378",
+        "data": {
+            "time": "2026-05-05 09:44:15.402355",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260505_094415.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 113822,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "00058eec8534d7ea918c16a9c480e237744a0d81cb7f10a3eb0735e8cc4133e7",
+        "nonce": 7869,
+        "hash": "000dc933b40c1ddc5c1203ff56ca545bfc400fc23b76e901d7faa185813443e8"
+    },
+    {
+        "index": 43,
+        "timestamp": "2026-05-05 09:44:20.421313",
+        "data": {
+            "time": "2026-05-05 09:44:20.421291",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260505_094420.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 113534,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "000dc933b40c1ddc5c1203ff56ca545bfc400fc23b76e901d7faa185813443e8",
+        "nonce": 604,
+        "hash": "000f6a07a7a8653a250f68bfc05d95c844ac8f73136654b8d9df3208b4059753"
+    },
+    {
+        "index": 44,
+        "timestamp": "2026-05-05 09:44:25.442156",
+        "data": {
+            "time": "2026-05-05 09:44:25.442104",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260505_094425.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 113301,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "000f6a07a7a8653a250f68bfc05d95c844ac8f73136654b8d9df3208b4059753",
+        "nonce": 2588,
+        "hash": "00037ded4d17f1e282da7e993d7c22b5de0fa7df41aab59209f8e520982aa7cf"
+    },
+    {
+        "index": 45,
+        "timestamp": "2026-05-05 09:44:30.449980",
+        "data": {
+            "time": "2026-05-05 09:44:30.449958",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260505_094430.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 113453,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "00037ded4d17f1e282da7e993d7c22b5de0fa7df41aab59209f8e520982aa7cf",
+        "nonce": 6464,
+        "hash": "00055d57df0005b86f440fdb2264ed5b4021745625ccbb977ab9b04579205025"
+    },
+    {
+        "index": 46,
+        "timestamp": "2026-05-05 09:44:35.479633",
+        "data": {
+            "time": "2026-05-05 09:44:35.479593",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260505_094435.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 41478,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 71053,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "00055d57df0005b86f440fdb2264ed5b4021745625ccbb977ab9b04579205025",
+        "nonce": 3059,
+        "hash": "0007b356636e427ec7b4755e5e1ce043c8190454a39d7608a8aae53b4a47c770"
+    },
+    {
+        "index": 47,
+        "timestamp": "2026-05-05 09:44:40.497693",
+        "data": {
+            "time": "2026-05-05 09:44:40.497667",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260505_094440.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 113489,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "0007b356636e427ec7b4755e5e1ce043c8190454a39d7608a8aae53b4a47c770",
+        "nonce": 1121,
+        "hash": "0000406bbab5009b08f7a123831e535af6f86efdd32191eed2132717930c7f12"
+    },
+    {
+        "index": 48,
+        "timestamp": "2026-05-05 09:44:45.525076",
+        "data": {
+            "time": "2026-05-05 09:44:45.525036",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260505_094445.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 113415,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "0000406bbab5009b08f7a123831e535af6f86efdd32191eed2132717930c7f12",
+        "nonce": 7688,
+        "hash": "000e0f338f45e60a3af748d95b4f7992b955c1840990a697be5d8e99f06605dc"
+    },
+    {
+        "index": 49,
+        "timestamp": "2026-05-05 09:44:50.548868",
+        "data": {
+            "time": "2026-05-05 09:44:50.548848",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260505_094450.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 113286,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "000e0f338f45e60a3af748d95b4f7992b955c1840990a697be5d8e99f06605dc",
+        "nonce": 13356,
+        "hash": "000edad2950f5dd357feaa376ea38765ce67b6938bf63032beaa5de683725b9d"
+    },
+    {
+        "index": 50,
+        "timestamp": "2026-05-05 09:44:55.560780",
+        "data": {
+            "time": "2026-05-05 09:44:55.560750",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260505_094455.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 39880,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 70808,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "000edad2950f5dd357feaa376ea38765ce67b6938bf63032beaa5de683725b9d",
+        "nonce": 828,
+        "hash": "0006c2665bfdc16dfa37b7b95d65f4b75298e2217ffcabec9545bb6036c696fa"
+    },
+    {
+        "index": 51,
+        "timestamp": "2026-05-05 09:45:00.552233",
+        "data": {
+            "time": "2026-05-05 09:45:00.552202",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260505_094500.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 24300,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 6140,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 75679,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 5044,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "0006c2665bfdc16dfa37b7b95d65f4b75298e2217ffcabec9545bb6036c696fa",
+        "nonce": 12914,
+        "hash": "00080d6b16d86913408992d6e2fedc15a2deb4e389c3951d49bacc5ab07dcc40"
+    },
+    {
+        "index": 52,
+        "timestamp": "2026-05-05 09:45:05.576394",
+        "data": {
+            "time": "2026-05-05 09:45:05.576372",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260505_094505.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 112908,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "00080d6b16d86913408992d6e2fedc15a2deb4e389c3951d49bacc5ab07dcc40",
+        "nonce": 11352,
+        "hash": "000362c09216e0101866ff03d5035a16c6600965754284d73fee826146e5dab3"
+    },
+    {
+        "index": 53,
+        "timestamp": "2026-05-05 09:45:10.598048",
+        "data": {
+            "time": "2026-05-05 09:45:10.598024",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260505_094510.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 113536,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "000362c09216e0101866ff03d5035a16c6600965754284d73fee826146e5dab3",
+        "nonce": 4198,
+        "hash": "0001130db3c668005967f32d6cb3b08699dcedf6834f5d9415d12562808c796b"
+    },
+    {
+        "index": 54,
+        "timestamp": "2026-05-05 09:45:15.636173",
+        "data": {
+            "time": "2026-05-05 09:45:15.636140",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260505_094515.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 112972,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "0001130db3c668005967f32d6cb3b08699dcedf6834f5d9415d12562808c796b",
+        "nonce": 2783,
+        "hash": "00060509d004026d69ff6a7ac84a7e3945eb17b7efd05c05db041ff33252245b"
+    },
+    {
+        "index": 55,
+        "timestamp": "2026-05-05 09:45:20.648502",
+        "data": {
+            "time": "2026-05-05 09:45:20.648480",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260505_094520.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 38569,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 71930,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "00060509d004026d69ff6a7ac84a7e3945eb17b7efd05c05db041ff33252245b",
+        "nonce": 4733,
+        "hash": "0006acfb9b63d8c214838e2d7d5a23b8f172f06f37fa8e1ba8b2da2864da68e3"
+    },
+    {
+        "index": 56,
+        "timestamp": "2026-05-05 09:45:25.660660",
+        "data": {
+            "time": "2026-05-05 09:45:25.660625",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260505_094525.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 38365,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 71729,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "0006acfb9b63d8c214838e2d7d5a23b8f172f06f37fa8e1ba8b2da2864da68e3",
+        "nonce": 1505,
+        "hash": "000aac1dd75dc2761ff2b717588700af0f37c97930ed9e56268ba71471c48e6c"
+    },
+    {
+        "index": 57,
+        "timestamp": "2026-05-05 09:45:30.676642",
+        "data": {
+            "time": "2026-05-05 09:45:30.676610",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260505_094530.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 111268,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "000aac1dd75dc2761ff2b717588700af0f37c97930ed9e56268ba71471c48e6c",
+        "nonce": 2943,
+        "hash": "0007e4721e5905ebe4fbe32f89b982e32c8508430457a29e43dd2b18ecbed6a4"
+    },
+    {
+        "index": 58,
+        "timestamp": "2026-05-05 09:45:35.699968",
+        "data": {
+            "time": "2026-05-05 09:45:35.699947",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260505_094535.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 110343,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "0007e4721e5905ebe4fbe32f89b982e32c8508430457a29e43dd2b18ecbed6a4",
+        "nonce": 1780,
+        "hash": "0001519b0e8d532231208432cc5bf3746426fe03227013a157d7f15142e25186"
+    },
+    {
+        "index": 59,
+        "timestamp": "2026-05-05 09:45:40.720840",
+        "data": {
+            "time": "2026-05-05 09:45:40.720820",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260505_094540.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 109784,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "0001519b0e8d532231208432cc5bf3746426fe03227013a157d7f15142e25186",
+        "nonce": 4226,
+        "hash": "000421e25b635d46847ea80bf3996c1b1d5fc42188e68d863ed2eebdcca53553"
+    },
+    {
+        "index": 60,
+        "timestamp": "2026-05-05 09:45:45.732145",
+        "data": {
+            "time": "2026-05-05 09:45:45.732102",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260505_094545.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 23894,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 86127,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "000421e25b635d46847ea80bf3996c1b1d5fc42188e68d863ed2eebdcca53553",
+        "nonce": 5708,
+        "hash": "000ec2091481bc8c1e2f0ff752e1269f734ada69c43cdfba8eecf907896a19a0"
+    },
+    {
+        "index": 61,
+        "timestamp": "2026-05-05 09:45:50.746105",
+        "data": {
+            "time": "2026-05-05 09:45:50.745989",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260505_094550.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 110528,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "000ec2091481bc8c1e2f0ff752e1269f734ada69c43cdfba8eecf907896a19a0",
+        "nonce": 2602,
+        "hash": "0009b6c2c0c013979ff5e25a0d22a3c3530cbc0eb625fbcdcf951a2ae748b776"
+    },
+    {
+        "index": 62,
+        "timestamp": "2026-05-05 09:45:55.748308",
+        "data": {
+            "time": "2026-05-05 09:45:55.748283",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260505_094555.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 110598,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "0009b6c2c0c013979ff5e25a0d22a3c3530cbc0eb625fbcdcf951a2ae748b776",
+        "nonce": 5554,
+        "hash": "000e4ea32dd379f428173120e7c742cf773bae9597530b9859f49b50cb6c2b6e"
+    },
+    {
+        "index": 63,
+        "timestamp": "2026-05-05 09:46:00.774057",
+        "data": {
+            "time": "2026-05-05 09:46:00.774035",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260505_094600.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 110139,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "000e4ea32dd379f428173120e7c742cf773bae9597530b9859f49b50cb6c2b6e",
+        "nonce": 223,
+        "hash": "000a5c4eaeaa94a22b0a544ded476401955c5f3c2a52c9cb2ce6f24c0eb468b8"
+    },
+    {
+        "index": 64,
+        "timestamp": "2026-05-05 09:46:05.797510",
+        "data": {
+            "time": "2026-05-05 09:46:05.797488",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260505_094605.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 10535,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 137498,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "000a5c4eaeaa94a22b0a544ded476401955c5f3c2a52c9cb2ce6f24c0eb468b8",
+        "nonce": 403,
+        "hash": "000244a44b9ca35f6defc91bc9dea7595d328d5e88dd764779c26a93b0767e9a"
+    },
+    {
+        "index": 65,
+        "timestamp": "2026-05-05 09:46:10.848326",
+        "data": {
+            "time": "2026-05-05 09:46:10.848306",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260505_094610.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 9140,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 117786,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "000244a44b9ca35f6defc91bc9dea7595d328d5e88dd764779c26a93b0767e9a",
+        "nonce": 9744,
+        "hash": "000e5deab86b36f1129e5929f159404336b27989f4fc342f9235be65f78ca9f1"
+    },
+    {
+        "index": 66,
+        "timestamp": "2026-05-05 09:46:15.873879",
+        "data": {
+            "time": "2026-05-05 09:46:15.873858",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260505_094615.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 147795,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "000e5deab86b36f1129e5929f159404336b27989f4fc342f9235be65f78ca9f1",
+        "nonce": 613,
+        "hash": "000e8cd89f8ea1304ccf9a5359d06b9ebb386abccc58255bed02139cf2892646"
+    },
+    {
+        "index": 67,
+        "timestamp": "2026-05-05 09:46:20.887862",
+        "data": {
+            "time": "2026-05-05 09:46:20.887840",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260505_094620.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 147827,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "000e8cd89f8ea1304ccf9a5359d06b9ebb386abccc58255bed02139cf2892646",
+        "nonce": 2165,
+        "hash": "000041328e669aa80f9bc314339d63f9a20902ffd034a8e9a751eb2bc9d3d2e5"
+    },
+    {
+        "index": 68,
+        "timestamp": "2026-05-05 09:46:25.934509",
+        "data": {
+            "time": "2026-05-05 09:46:25.934485",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260505_094625.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 148032,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "000041328e669aa80f9bc314339d63f9a20902ffd034a8e9a751eb2bc9d3d2e5",
+        "nonce": 8392,
+        "hash": "000800911e6ae1a22a646511cf3c8cc929500cf9b735917cee4af57bf372d767"
+    },
+    {
+        "index": 69,
+        "timestamp": "2026-05-05 09:46:30.959708",
+        "data": {
+            "time": "2026-05-05 09:46:30.959682",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260505_094630.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 148362,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "000800911e6ae1a22a646511cf3c8cc929500cf9b735917cee4af57bf372d767",
+        "nonce": 380,
+        "hash": "000d7337ccf5186f243998823952cf28ffd9c2f57786f69b7f81def286be0640"
+    },
+    {
+        "index": 70,
+        "timestamp": "2026-05-05 09:46:35.964730",
+        "data": {
+            "time": "2026-05-05 09:46:35.964689",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260505_094635.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 11782,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 136329,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "000d7337ccf5186f243998823952cf28ffd9c2f57786f69b7f81def286be0640",
+        "nonce": 10183,
+        "hash": "0008cc8c66cb75a606848d1018811f77e369d88d961e2721c31743d8b2f139cf"
+    },
+    {
+        "index": 71,
+        "timestamp": "2026-05-05 09:46:40.992358",
+        "data": {
+            "time": "2026-05-05 09:46:40.992325",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260505_094640.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 148220,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "0008cc8c66cb75a606848d1018811f77e369d88d961e2721c31743d8b2f139cf",
+        "nonce": 568,
+        "hash": "000cb96051d48ab46b675b75d874510bf4f4de639f63fe8e80d3cba7a98a35ee"
+    },
+    {
+        "index": 72,
+        "timestamp": "2026-05-05 09:46:46.001892",
+        "data": {
+            "time": "2026-05-05 09:46:46.001871",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260505_094645.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 11449,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 134699,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "000cb96051d48ab46b675b75d874510bf4f4de639f63fe8e80d3cba7a98a35ee",
+        "nonce": 5044,
+        "hash": "000a8830ccc8c5e7441039e51f8343586d64e2f60f5943e088f1008d3d5f7906"
+    },
+    {
+        "index": 73,
+        "timestamp": "2026-05-05 09:46:51.035037",
+        "data": {
+            "time": "2026-05-05 09:46:51.035014",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260505_094651.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 11557,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 134234,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "000a8830ccc8c5e7441039e51f8343586d64e2f60f5943e088f1008d3d5f7906",
+        "nonce": 8434,
+        "hash": "000d66b87e0996442b0541ef716e05850171c4954728b9a4725cc4b04bdab5d5"
+    },
+    {
+        "index": 74,
+        "timestamp": "2026-05-05 09:46:56.062451",
+        "data": {
+            "time": "2026-05-05 09:46:56.062415",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260505_094656.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 11667,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 134816,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "000d66b87e0996442b0541ef716e05850171c4954728b9a4725cc4b04bdab5d5",
+        "nonce": 371,
+        "hash": "000e029d6070d75d80a7a8c7f70880effc3fb3065140f6b49b351f9655bc7c02"
+    },
+    {
+        "index": 75,
+        "timestamp": "2026-05-05 09:47:01.071425",
+        "data": {
+            "time": "2026-05-05 09:47:01.071390",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260505_094701.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 11588,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 135448,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "000e029d6070d75d80a7a8c7f70880effc3fb3065140f6b49b351f9655bc7c02",
+        "nonce": 2336,
+        "hash": "0007ce7686e0b9ee3b8a0d6dd6cd5d50d8b0aba6ae85f5ff0d02326c357422d7"
+    },
+    {
+        "index": 76,
+        "timestamp": "2026-05-05 09:47:06.083674",
+        "data": {
+            "time": "2026-05-05 09:47:06.083657",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260505_094706.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 11215,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 133982,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "0007ce7686e0b9ee3b8a0d6dd6cd5d50d8b0aba6ae85f5ff0d02326c357422d7",
+        "nonce": 3311,
+        "hash": "0009a5b08067bef69d4d2ec29696947115b8e30261dfc448c70b01def6032c2e"
+    },
+    {
+        "index": 77,
+        "timestamp": "2026-05-05 09:47:11.110753",
+        "data": {
+            "time": "2026-05-05 09:47:11.110729",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260505_094711.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 11212,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 136853,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "0009a5b08067bef69d4d2ec29696947115b8e30261dfc448c70b01def6032c2e",
+        "nonce": 3831,
+        "hash": "000d80c31eb9eca2771e309754c171b97021fcd76e3af92aebc82b3b65755d21"
+    },
+    {
+        "index": 78,
+        "timestamp": "2026-05-05 09:47:16.141133",
+        "data": {
+            "time": "2026-05-05 09:47:16.141110",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260505_094716.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 11455,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 135500,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "000d80c31eb9eca2771e309754c171b97021fcd76e3af92aebc82b3b65755d21",
+        "nonce": 870,
+        "hash": "0002ffbc48ba4d4c7eb7d3f4b0cf7099e7a020ca2f29016f64ad759a1c5f9fe7"
+    },
+    {
+        "index": 79,
+        "timestamp": "2026-05-05 09:47:21.156708",
+        "data": {
+            "time": "2026-05-05 09:47:21.156685",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260505_094721.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 12108,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 133701,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "0002ffbc48ba4d4c7eb7d3f4b0cf7099e7a020ca2f29016f64ad759a1c5f9fe7",
+        "nonce": 13540,
+        "hash": "000378cd677bcf52c060c9a1cb2667f44c566f2c6132e2c5fc8e6af88966b102"
+    },
+    {
+        "index": 80,
+        "timestamp": "2026-05-05 09:47:26.190823",
+        "data": {
+            "time": "2026-05-05 09:47:26.190778",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260505_094726.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 10943,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 136792,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "000378cd677bcf52c060c9a1cb2667f44c566f2c6132e2c5fc8e6af88966b102",
+        "nonce": 2036,
+        "hash": "000897a1da2e3cb22e62d57f0e0f03faeedf41852feb42680de2346db83336f9"
+    },
+    {
+        "index": 81,
+        "timestamp": "2026-05-05 09:47:31.185985",
+        "data": {
+            "time": "2026-05-05 09:47:31.185957",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260505_094731.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 10937,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 135840,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "000897a1da2e3cb22e62d57f0e0f03faeedf41852feb42680de2346db83336f9",
+        "nonce": 3577,
+        "hash": "000db4fe9bf10c69ceb16f4bdc3434e83225cdbb559abcbb24a444499ca9d982"
+    },
+    {
+        "index": 82,
+        "timestamp": "2026-05-05 09:47:36.211156",
+        "data": {
+            "time": "2026-05-05 09:47:36.211127",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260505_094736.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 10797,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 135513,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "000db4fe9bf10c69ceb16f4bdc3434e83225cdbb559abcbb24a444499ca9d982",
+        "nonce": 497,
+        "hash": "00010a251fb0998eab1de239dda0c9c39740b151c4a9f77a0f7b3439103c39ed"
+    },
+    {
+        "index": 83,
+        "timestamp": "2026-05-05 10:00:11.079084",
+        "data": {
+            "time": "2026-05-05 10:00:11.079051",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260505_100011.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 148742,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "00010a251fb0998eab1de239dda0c9c39740b151c4a9f77a0f7b3439103c39ed",
+        "nonce": 7527,
+        "hash": "0006092a52f322af404c0e53d0355b342b999b214d55088c881d88b7f6c76186"
+    },
+    {
+        "index": 84,
+        "timestamp": "2026-05-05 10:00:16.116092",
+        "data": {
+            "time": "2026-05-05 10:00:16.116067",
+            "mode": "agriculture",
+            "danger_level": "HIGH",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260505_100016.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 227230,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "0006092a52f322af404c0e53d0355b342b999b214d55088c881d88b7f6c76186",
+        "nonce": 18643,
+        "hash": "00063da69a09baa83d31d2b998a0c6e9380762ffee34b1035d2a066c1aab8e26"
+    },
+    {
+        "index": 85,
+        "timestamp": "2026-05-05 10:00:21.141186",
+        "data": {
+            "time": "2026-05-05 10:00:21.141163",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260505_100021.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 6621,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 6808,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 79954,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "00063da69a09baa83d31d2b998a0c6e9380762ffee34b1035d2a066c1aab8e26",
+        "nonce": 994,
+        "hash": "000253244b84d4cce014ae948bf10d5b5b15a3c83c3a9f8fcf42005cc178ed4b"
+    },
+    {
+        "index": 86,
+        "timestamp": "2026-05-05 10:00:26.172759",
+        "data": {
+            "time": "2026-05-05 10:00:26.172721",
+            "mode": "agriculture",
+            "danger_level": "LOW",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260505_100026.jpg",
+            "detections": [
+                {
+                    "class_name": "fire",
+                    "confidence": 0.75,
+                    "area": 7668,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 14589,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 48156,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "000253244b84d4cce014ae948bf10d5b5b15a3c83c3a9f8fcf42005cc178ed4b",
+        "nonce": 4008,
+        "hash": "000934dbd17419de176e9a948be3247df4c1cd7b80c422085c57bcc29f790a5f"
+    },
+    {
+        "index": 87,
+        "timestamp": "2026-05-05 10:00:31.192211",
+        "data": {
+            "time": "2026-05-05 10:00:31.192188",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260505_100031.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 90238,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "000934dbd17419de176e9a948be3247df4c1cd7b80c422085c57bcc29f790a5f",
+        "nonce": 4018,
+        "hash": "000feeec04b862f2e4c41368c656c004fad70b7c0a2563dbe67d9dbcbfd83fd7"
+    },
+    {
+        "index": 88,
+        "timestamp": "2026-05-05 10:00:36.217954",
+        "data": {
+            "time": "2026-05-05 10:00:36.217921",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260505_100036.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 14567,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 11537,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 75551,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "000feeec04b862f2e4c41368c656c004fad70b7c0a2563dbe67d9dbcbfd83fd7",
+        "nonce": 781,
+        "hash": "000f9f7ed53ae0a69cc4298c6ca222fff14ab16752aa8c2ad3b57a97c305bc83"
+    },
+    {
+        "index": 89,
+        "timestamp": "2026-05-05 10:00:41.222338",
+        "data": {
+            "time": "2026-05-05 10:00:41.222320",
+            "mode": "agriculture",
+            "danger_level": "LOW",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260505_100041.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 38274,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 10341,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "000f9f7ed53ae0a69cc4298c6ca222fff14ab16752aa8c2ad3b57a97c305bc83",
+        "nonce": 2139,
+        "hash": "00093ac32ebda914e1857f8c0529e4501a8480cf31d20e6495a0c7715574d30e"
+    },
+    {
+        "index": 90,
+        "timestamp": "2026-05-06 08:38:00.957337",
+        "data": {
+            "time": "2026-05-06 08:38:00.957308",
+            "mode": "agriculture",
+            "danger_level": "LOW",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260506_083800.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 19783,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "00093ac32ebda914e1857f8c0529e4501a8480cf31d20e6495a0c7715574d30e",
+        "nonce": 5518,
+        "hash": "0007bb90a3e1b166533385cee7682bf6480ee0d86d2408f7224128acd5c1c586"
+    },
+    {
+        "index": 91,
+        "timestamp": "2026-05-06 08:38:05.968757",
+        "data": {
+            "time": "2026-05-06 08:38:05.968731",
+            "mode": "agriculture",
+            "danger_level": "HIGH",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260506_083805.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 13354,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 58009,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 123189,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "0007bb90a3e1b166533385cee7682bf6480ee0d86d2408f7224128acd5c1c586",
+        "nonce": 865,
+        "hash": "000237498b532226727ce7aae2d47e99e3eeaa96f655e8b8acdb9d16b9cb5a71"
+    },
+    {
+        "index": 92,
+        "timestamp": "2026-05-06 08:38:10.998141",
+        "data": {
+            "time": "2026-05-06 08:38:10.998116",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260506_083810.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 129468,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "000237498b532226727ce7aae2d47e99e3eeaa96f655e8b8acdb9d16b9cb5a71",
+        "nonce": 1308,
+        "hash": "000f67fe1b28da77dd633f256df83e22e58f375d7215211211f0c12460e1a516"
+    },
+    {
+        "index": 93,
+        "timestamp": "2026-05-06 08:38:16.019999",
+        "data": {
+            "time": "2026-05-06 08:38:16.019975",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260506_083816.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 42308,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 86337,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "000f67fe1b28da77dd633f256df83e22e58f375d7215211211f0c12460e1a516",
+        "nonce": 5729,
+        "hash": "000796b31d7309213498f3c07c32e0b87736722a93ed024301d959b840eb002d"
+    },
+    {
+        "index": 94,
+        "timestamp": "2026-05-06 08:38:21.041981",
+        "data": {
+            "time": "2026-05-06 08:38:21.041963",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260506_083821.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 123335,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "000796b31d7309213498f3c07c32e0b87736722a93ed024301d959b840eb002d",
+        "nonce": 85,
+        "hash": "00072f627e7efcfba4df4e5ab858b2e76c501c9e4744f9d748d34a62c7e8046e"
+    },
+    {
+        "index": 95,
+        "timestamp": "2026-05-06 08:38:26.051701",
+        "data": {
+            "time": "2026-05-06 08:38:26.051672",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260506_083826.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 17392,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 88855,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 12362,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "00072f627e7efcfba4df4e5ab858b2e76c501c9e4744f9d748d34a62c7e8046e",
+        "nonce": 2585,
+        "hash": "000b8c4858f5830889043d5dbad3af235476bab9d09d14828f80c129d8053393"
+    },
+    {
+        "index": 96,
+        "timestamp": "2026-05-06 08:38:31.075083",
+        "data": {
+            "time": "2026-05-06 08:38:31.075055",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260506_083831.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 16541,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 81776,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 9205,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "000b8c4858f5830889043d5dbad3af235476bab9d09d14828f80c129d8053393",
+        "nonce": 4542,
+        "hash": "0006b9bda5c3ceea805cfe7408b2745bf5fa5c441674e9f05e06fd2022e3361c"
+    },
+    {
+        "index": 97,
+        "timestamp": "2026-05-06 08:38:36.099446",
+        "data": {
+            "time": "2026-05-06 08:38:36.099423",
+            "mode": "agriculture",
+            "danger_level": "LOW",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260506_083836.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 42756,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 29387,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 5076,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "0006b9bda5c3ceea805cfe7408b2745bf5fa5c441674e9f05e06fd2022e3361c",
+        "nonce": 3094,
+        "hash": "000ce1c4be37b6a669b87c82ca557371043ae421cd93f577938b898d45cbafc5"
+    },
+    {
+        "index": 98,
+        "timestamp": "2026-05-06 08:38:41.119271",
+        "data": {
+            "time": "2026-05-06 08:38:41.119249",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260506_083841.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 16587,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 16509,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 91010,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "000ce1c4be37b6a669b87c82ca557371043ae421cd93f577938b898d45cbafc5",
+        "nonce": 14384,
+        "hash": "0005a55828408a98a7bfc9e2072f2e23046112572ff38671b3c7b8240aa16fa3"
+    },
+    {
+        "index": 99,
+        "timestamp": "2026-05-06 08:38:46.125050",
+        "data": {
+            "time": "2026-05-06 08:38:46.125029",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260506_083846.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 33124,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 103845,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "0005a55828408a98a7bfc9e2072f2e23046112572ff38671b3c7b8240aa16fa3",
+        "nonce": 3398,
+        "hash": "00062f6df4ba4ec1cd6c5313fa30f73572bf5629ef2391b0427e6eb45f3986b8"
+    },
+    {
+        "index": 100,
+        "timestamp": "2026-05-06 08:38:51.139488",
+        "data": {
+            "time": "2026-05-06 08:38:51.139467",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260506_083851.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 59187,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 42133,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "00062f6df4ba4ec1cd6c5313fa30f73572bf5629ef2391b0427e6eb45f3986b8",
+        "nonce": 4927,
+        "hash": "00048693b256ab44d27083c0e24de1ba7cea1cbccc925562ebe20909ec329645"
+    },
+    {
+        "index": 101,
+        "timestamp": "2026-05-06 08:38:56.185817",
+        "data": {
+            "time": "2026-05-06 08:38:56.185778",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260506_083856.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 61280,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 49665,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "00048693b256ab44d27083c0e24de1ba7cea1cbccc925562ebe20909ec329645",
+        "nonce": 1,
+        "hash": "000752176e14f8a67be29f8bdc52616b8c9411245ba1b7b97eefea4a6e2c8864"
+    },
+    {
+        "index": 102,
+        "timestamp": "2026-05-06 08:39:01.174419",
+        "data": {
+            "time": "2026-05-06 08:39:01.174391",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260506_083901.jpg",
+            "detections": [
+                {
+                    "class_name": "fire",
+                    "confidence": 0.75,
+                    "area": 5954,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 15972,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 81520,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 7421,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 14481,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "000752176e14f8a67be29f8bdc52616b8c9411245ba1b7b97eefea4a6e2c8864",
+        "nonce": 6617,
+        "hash": "000e730f6bea050389c52700c5ea65e7126a914fbec5bb16f305d23409b6853e"
+    },
+    {
+        "index": 103,
+        "timestamp": "2026-05-06 08:39:06.192223",
+        "data": {
+            "time": "2026-05-06 08:39:06.192197",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260506_083906.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 120052,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "000e730f6bea050389c52700c5ea65e7126a914fbec5bb16f305d23409b6853e",
+        "nonce": 603,
+        "hash": "00027fd4d144d8857861efc3728fc26a81cc25124a15eaa529f4d6b0dbcd54d6"
+    },
+    {
+        "index": 104,
+        "timestamp": "2026-05-06 08:39:11.217913",
+        "data": {
+            "time": "2026-05-06 08:39:11.217890",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260506_083911.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 122351,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "00027fd4d144d8857861efc3728fc26a81cc25124a15eaa529f4d6b0dbcd54d6",
+        "nonce": 1193,
+        "hash": "000c6f1ad9bafe4ed61ae3e00397606484aab81aed4ebbacb62b84c353bcd966"
+    },
+    {
+        "index": 105,
+        "timestamp": "2026-05-06 08:39:16.221924",
+        "data": {
+            "time": "2026-05-06 08:39:16.221908",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260506_083916.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 174773,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "000c6f1ad9bafe4ed61ae3e00397606484aab81aed4ebbacb62b84c353bcd966",
+        "nonce": 6848,
+        "hash": "000cf901f821fc9ebff1aace6fd3ec418281f5c73e794b586821e9637ded4a9d"
+    },
+    {
+        "index": 106,
+        "timestamp": "2026-05-06 08:39:21.235103",
+        "data": {
+            "time": "2026-05-06 08:39:21.235068",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260506_083921.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 34433,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 15012,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 82979,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "000cf901f821fc9ebff1aace6fd3ec418281f5c73e794b586821e9637ded4a9d",
+        "nonce": 1401,
+        "hash": "000d389c422c618f7691f652130dea1eae0fb3b71ea63c221747eee719bc78b6"
+    },
+    {
+        "index": 107,
+        "timestamp": "2026-05-06 08:39:26.243688",
+        "data": {
+            "time": "2026-05-06 08:39:26.243668",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260506_083926.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 43775,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 80974,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "000d389c422c618f7691f652130dea1eae0fb3b71ea63c221747eee719bc78b6",
+        "nonce": 8581,
+        "hash": "000e98c6c797c5971ce3e35f35e329323db8f4d94a1595d3e7dbadaffc89d26e"
+    },
+    {
+        "index": 108,
+        "timestamp": "2026-05-06 08:39:31.303030",
+        "data": {
+            "time": "2026-05-06 08:39:31.303011",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260506_083931.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 20903,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 116769,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "000e98c6c797c5971ce3e35f35e329323db8f4d94a1595d3e7dbadaffc89d26e",
+        "nonce": 929,
+        "hash": "000f2baf00d716918fd3166448aef069b67f4df0e3ec416cd94965e0f88f9226"
+    },
+    {
+        "index": 109,
+        "timestamp": "2026-05-06 08:39:36.323097",
+        "data": {
+            "time": "2026-05-06 08:39:36.323063",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260506_083936.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 7155,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 41076,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 9051,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 49265,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 5977,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "000f2baf00d716918fd3166448aef069b67f4df0e3ec416cd94965e0f88f9226",
+        "nonce": 1363,
+        "hash": "00046009b28c12e75e2c61d5bcfc88de4c32ec85cb41e423e365f14ae6adeea6"
+    },
+    {
+        "index": 110,
+        "timestamp": "2026-05-06 08:39:41.358421",
+        "data": {
+            "time": "2026-05-06 08:39:41.358377",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260506_083941.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 119733,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 5666,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "00046009b28c12e75e2c61d5bcfc88de4c32ec85cb41e423e365f14ae6adeea6",
+        "nonce": 1882,
+        "hash": "000309a8b67619c6080eeaf0d726beb805c2f637b0150be6882c972e2242f3b2"
+    },
+    {
+        "index": 111,
+        "timestamp": "2026-05-06 08:39:46.369240",
+        "data": {
+            "time": "2026-05-06 08:39:46.369213",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260506_083946.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 9841,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 78796,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 9911,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 6381,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "000309a8b67619c6080eeaf0d726beb805c2f637b0150be6882c972e2242f3b2",
+        "nonce": 5598,
+        "hash": "0005bc299d9db1ba29d109d06b4dfb319f068b90a26690f6daac7cbcb6831533"
+    },
+    {
+        "index": 112,
+        "timestamp": "2026-05-06 08:39:51.396343",
+        "data": {
+            "time": "2026-05-06 08:39:51.396318",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260506_083951.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 9846,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 83981,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 7868,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 6029,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "0005bc299d9db1ba29d109d06b4dfb319f068b90a26690f6daac7cbcb6831533",
+        "nonce": 3734,
+        "hash": "000ca701edf1cbba4d999f5f379ba94b8d6589ef105c13c81dd843748d608764"
+    },
+    {
+        "index": 113,
+        "timestamp": "2026-05-06 08:39:56.403945",
+        "data": {
+            "time": "2026-05-06 08:39:56.403917",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260506_083956.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 9887,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 116594,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 7391,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "000ca701edf1cbba4d999f5f379ba94b8d6589ef105c13c81dd843748d608764",
+        "nonce": 4322,
+        "hash": "00035bfeec208d44a491a21d3140d8e0341e986c93feedefc3366abdd295366e"
+    },
+    {
+        "index": 114,
+        "timestamp": "2026-05-06 08:40:01.428724",
+        "data": {
+            "time": "2026-05-06 08:40:01.428699",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260506_084001.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 126536,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 5379,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "00035bfeec208d44a491a21d3140d8e0341e986c93feedefc3366abdd295366e",
+        "nonce": 10095,
+        "hash": "000c9bd905a8d0819a834e324e4c29111638cdb6a990efb7e46447b9861cab3b"
+    },
+    {
+        "index": 115,
+        "timestamp": "2026-05-06 08:40:06.463543",
+        "data": {
+            "time": "2026-05-06 08:40:06.463483",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260506_084006.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 76239,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 40083,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 5999,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "000c9bd905a8d0819a834e324e4c29111638cdb6a990efb7e46447b9861cab3b",
+        "nonce": 10761,
+        "hash": "0007262b5add5aeabb08049fed4c4d3fc20332f22b821fe5645bd584e50c05a7"
+    },
+    {
+        "index": 116,
+        "timestamp": "2026-05-06 08:40:11.481370",
+        "data": {
+            "time": "2026-05-06 08:40:11.481336",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260506_084011.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 48517,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 92995,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 10988,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "0007262b5add5aeabb08049fed4c4d3fc20332f22b821fe5645bd584e50c05a7",
+        "nonce": 4616,
+        "hash": "000e7b62aabf4b91cf66cc0fec48fe03342c62a0959b8ef6b5aaef5d51ff1e90"
+    },
+    {
+        "index": 117,
+        "timestamp": "2026-05-06 13:12:56.853691",
+        "data": {
+            "time": "2026-05-06 13:12:56.853636",
+            "mode": "agriculture",
+            "danger_level": "LOW",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260506_131256.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 10679,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 8948,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "000e7b62aabf4b91cf66cc0fec48fe03342c62a0959b8ef6b5aaef5d51ff1e90",
+        "nonce": 3208,
+        "hash": "000a3bc6e19ee3e5e3a367adb0851a08c56cd2d5a1992fbfc98ba7924b939757"
+    },
+    {
+        "index": 118,
+        "timestamp": "2026-05-06 13:13:01.859543",
+        "data": {
+            "time": "2026-05-06 13:13:01.859510",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260506_131301.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 14889,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 9448,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 88967,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "000a3bc6e19ee3e5e3a367adb0851a08c56cd2d5a1992fbfc98ba7924b939757",
+        "nonce": 3195,
+        "hash": "00009b246c3a2ca392286baa073b8180644d074895824d519196f59ee1ba6c2d"
+    },
+    {
+        "index": 119,
+        "timestamp": "2026-05-06 13:13:06.883925",
+        "data": {
+            "time": "2026-05-06 13:13:06.883884",
+            "mode": "agriculture",
+            "danger_level": "HIGH",
+            "robot_command": "FORWARD",
+            "message": "Fire detected in farm area. Alphabot approaches and activates water pump.",
+            "image_path": "alerts\\alert_20260506_131306.jpg",
+            "detections": [
+                {
+                    "class_name": "fire",
+                    "confidence": 0.75,
+                    "area": 5459,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "fire",
+                    "confidence": 0.75,
+                    "area": 11828,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 42994,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 111125,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 5569,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "00009b246c3a2ca392286baa073b8180644d074895824d519196f59ee1ba6c2d",
+        "nonce": 1762,
+        "hash": "000c590a6f6fdb187cce9a72bc9e72f4b4d9d6a422c01cebe71fe775bf76b7fa"
+    },
+    {
+        "index": 120,
+        "timestamp": "2026-05-06 13:13:11.923783",
+        "data": {
+            "time": "2026-05-06 13:13:11.923742",
+            "mode": "agriculture",
+            "danger_level": "HIGH",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260506_131311.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 210957,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "000c590a6f6fdb187cce9a72bc9e72f4b4d9d6a422c01cebe71fe775bf76b7fa",
+        "nonce": 16,
+        "hash": "000d7158411b0f98ff7a36e1f5dd9618f562cd2cf6135613258d992c36fd009a"
+    },
+    {
+        "index": 121,
+        "timestamp": "2026-05-06 13:42:39.257238",
+        "data": {
+            "time": "2026-05-06 13:42:39.257203",
+            "mode": "agriculture",
+            "danger_level": "HIGH",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260506_134239.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 191442,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "000d7158411b0f98ff7a36e1f5dd9618f562cd2cf6135613258d992c36fd009a",
+        "nonce": 1434,
+        "hash": "0008ca26971a9399f2751a1674628e1f82363222488d776e66a181eb306d6fed"
+    },
+    {
+        "index": 122,
+        "timestamp": "2026-05-06 13:42:49.265685",
+        "data": {
+            "time": "2026-05-06 13:42:49.265642",
+            "mode": "agriculture",
+            "danger_level": "HIGH",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260506_134249.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 241748,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 10119,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "0008ca26971a9399f2751a1674628e1f82363222488d776e66a181eb306d6fed",
+        "nonce": 254,
+        "hash": "000ebb86805d068ab5326558a0562d3a58a107e551c8da05b1aa766b05b096a3"
+    },
+    {
+        "index": 123,
+        "timestamp": "2026-05-06 13:42:59.280591",
+        "data": {
+            "time": "2026-05-06 13:42:59.280567",
+            "mode": "agriculture",
+            "danger_level": "HIGH",
+            "robot_command": "PUMP",
+            "message": "Fire detected in farm area. Alphabot approaches and activates water pump.",
+            "image_path": "alerts\\alert_20260506_134259.jpg",
+            "detections": [
+                {
+                    "class_name": "fire",
+                    "confidence": 0.75,
+                    "area": 37952,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 263786,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "000ebb86805d068ab5326558a0562d3a58a107e551c8da05b1aa766b05b096a3",
+        "nonce": 4984,
+        "hash": "0006493d991fb85774ee6f34b424cd4cd9f8b3f402023e1c032552bb64fde5ff"
+    },
+    {
+        "index": 124,
+        "timestamp": "2026-05-06 13:43:09.297735",
+        "data": {
+            "time": "2026-05-06 13:43:09.297713",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "FORWARD",
+            "message": "Fire detected in farm area. Alphabot approaches and activates water pump.",
+            "image_path": "alerts\\alert_20260506_134309.jpg",
+            "detections": [
+                {
+                    "class_name": "fire",
+                    "confidence": 0.75,
+                    "area": 12059,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 28834,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 16269,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 17702,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "0006493d991fb85774ee6f34b424cd4cd9f8b3f402023e1c032552bb64fde5ff",
+        "nonce": 1834,
+        "hash": "0002047b6d3186f5d19213b46be3d6b7c20dfe3081da41379046f488d5f0547e"
+    },
+    {
+        "index": 125,
+        "timestamp": "2026-05-06 13:49:06.200747",
+        "data": {
+            "time": "2026-05-06 13:49:06.200722",
+            "mode": "agriculture",
+            "danger_level": "HIGH",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260506_134906.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 264616,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "0002047b6d3186f5d19213b46be3d6b7c20dfe3081da41379046f488d5f0547e",
+        "nonce": 7747,
+        "hash": "000c7ccd42984c79bc85ddad6048ba0370f56da50dd6851c36c8d0b3282c6758"
+    },
+    {
+        "index": 126,
+        "timestamp": "2026-05-06 13:49:16.195907",
+        "data": {
+            "time": "2026-05-06 13:49:16.195882",
+            "mode": "agriculture",
+            "danger_level": "HIGH",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260506_134916.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 270417,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "000c7ccd42984c79bc85ddad6048ba0370f56da50dd6851c36c8d0b3282c6758",
+        "nonce": 1308,
+        "hash": "000e242b6fe78a70a1624b222ceb4275dee2f88d15db1de36bbab2a8232feefa"
+    },
+    {
+        "index": 127,
+        "timestamp": "2026-05-06 13:49:26.207429",
+        "data": {
+            "time": "2026-05-06 13:49:26.207410",
+            "mode": "agriculture",
+            "danger_level": "HIGH",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260506_134926.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 263225,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "000e242b6fe78a70a1624b222ceb4275dee2f88d15db1de36bbab2a8232feefa",
+        "nonce": 841,
+        "hash": "00089c72cfb83d9b74b051f653b8fc66c8ca7dd6cf8854a21577761c36d8adbe"
+    },
+    {
+        "index": 128,
+        "timestamp": "2026-05-06 13:49:36.212109",
+        "data": {
+            "time": "2026-05-06 13:49:36.212087",
+            "mode": "agriculture",
+            "danger_level": "HIGH",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260506_134936.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 260684,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "00089c72cfb83d9b74b051f653b8fc66c8ca7dd6cf8854a21577761c36d8adbe",
+        "nonce": 3034,
+        "hash": "000c7213853e4d1a4d201c983699f3d0608850e25e8bfc77c6dc36791e4ed2ac"
+    },
+    {
+        "index": 129,
+        "timestamp": "2026-05-06 13:49:46.239602",
+        "data": {
+            "time": "2026-05-06 13:49:46.239581",
+            "mode": "agriculture",
+            "danger_level": "HIGH",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260506_134946.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 247440,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "000c7213853e4d1a4d201c983699f3d0608850e25e8bfc77c6dc36791e4ed2ac",
+        "nonce": 3985,
+        "hash": "0003ced21602abd1640de4ecd222d49b2c70bf3460353550a23518dd11b6774b"
+    },
+    {
+        "index": 130,
+        "timestamp": "2026-05-06 13:49:56.273062",
+        "data": {
+            "time": "2026-05-06 13:49:56.273042",
+            "mode": "agriculture",
+            "danger_level": "HIGH",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260506_134956.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 252257,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "0003ced21602abd1640de4ecd222d49b2c70bf3460353550a23518dd11b6774b",
+        "nonce": 1797,
+        "hash": "0000d634c8976f6d4a2093665548203f0fa495f5e953f28cf97aa9d8716ae794"
+    },
+    {
+        "index": 131,
+        "timestamp": "2026-05-06 13:50:06.319923",
+        "data": {
+            "time": "2026-05-06 13:50:06.319902",
+            "mode": "agriculture",
+            "danger_level": "HIGH",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260506_135006.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 271090,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "0000d634c8976f6d4a2093665548203f0fa495f5e953f28cf97aa9d8716ae794",
+        "nonce": 1167,
+        "hash": "00022b26251dee744629ad5c573ce2176d98a3255a1c81ebde9d1bff9474720b"
+    },
+    {
+        "index": 132,
+        "timestamp": "2026-05-06 13:50:16.356333",
+        "data": {
+            "time": "2026-05-06 13:50:16.356314",
+            "mode": "agriculture",
+            "danger_level": "HIGH",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260506_135016.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 269054,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "00022b26251dee744629ad5c573ce2176d98a3255a1c81ebde9d1bff9474720b",
+        "nonce": 3589,
+        "hash": "000679be225fa6697b16788422ebdeb017818bdcc94c1740ba2325bc4beaaa8a"
+    },
+    {
+        "index": 133,
+        "timestamp": "2026-05-06 13:54:17.009898",
+        "data": {
+            "time": "2026-05-06 13:54:17.009871",
+            "mode": "agriculture",
+            "danger_level": "NORMAL",
+            "robot_command": "STOP",
+            "message": "Farm area is safe.",
+            "image_path": "alerts\\alert_20260506_135417.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 254578,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "000679be225fa6697b16788422ebdeb017818bdcc94c1740ba2325bc4beaaa8a",
+        "nonce": 5549,
+        "hash": "000f7540018a226632fea5306bf8bd7b8ee7d860f0492e53113303826e796939"
+    },
+    {
+        "index": 134,
+        "timestamp": "2026-05-06 13:54:27.019750",
+        "data": {
+            "time": "2026-05-06 13:54:27.019724",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260506_135427.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 258632,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "000f7540018a226632fea5306bf8bd7b8ee7d860f0492e53113303826e796939",
+        "nonce": 2193,
+        "hash": "0003c699780204aaf0663a772e7d81cbd745efaa354d23cdde8d03a7c58c1fa4"
+    },
+    {
+        "index": 135,
+        "timestamp": "2026-05-06 13:54:37.068662",
+        "data": {
+            "time": "2026-05-06 13:54:37.068643",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260506_135437.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 33988,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 66380,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 11915,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "0003c699780204aaf0663a772e7d81cbd745efaa354d23cdde8d03a7c58c1fa4",
+        "nonce": 7805,
+        "hash": "00062b935718a2659dad0c420a3ca3840df8bf298951c80f1ee51e4b877fc649"
+    },
+    {
+        "index": 136,
+        "timestamp": "2026-05-06 13:54:47.100675",
+        "data": {
+            "time": "2026-05-06 13:54:47.100656",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260506_135447.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 250300,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "00062b935718a2659dad0c420a3ca3840df8bf298951c80f1ee51e4b877fc649",
+        "nonce": 21603,
+        "hash": "0002a436f6655a18e24d082e18118ef971908e9281f595092d2911ac754c66fa"
+    },
+    {
+        "index": 137,
+        "timestamp": "2026-05-06 13:55:56.683154",
+        "data": {
+            "time": "2026-05-06 13:55:56.683131",
+            "mode": "agriculture",
+            "danger_level": "HIGH",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260506_135556.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 217595,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "0002a436f6655a18e24d082e18118ef971908e9281f595092d2911ac754c66fa",
+        "nonce": 7824,
+        "hash": "0003b579f67cd8f675dd6cd382c5712bc643c867cf9fe98d20a34212f267e927"
+    },
+    {
+        "index": 138,
+        "timestamp": "2026-05-06 13:56:06.717834",
+        "data": {
+            "time": "2026-05-06 13:56:06.717803",
+            "mode": "agriculture",
+            "danger_level": "HIGH",
+            "robot_command": "FORWARD",
+            "message": "Fire detected in farm area. Alphabot approaches and activates water pump.",
+            "image_path": "alerts\\alert_20260506_135606.jpg",
+            "detections": [
+                {
+                    "class_name": "fire",
+                    "confidence": 0.75,
+                    "area": 5703,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "fire",
+                    "confidence": 0.75,
+                    "area": 5807,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 6084,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 96222,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 40251,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 46900,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "0003b579f67cd8f675dd6cd382c5712bc643c867cf9fe98d20a34212f267e927",
+        "nonce": 4693,
+        "hash": "00044c6076b7eb903b2a7fdeb2a02ca37490b9256a3b76096525414da9e43264"
+    },
+    {
+        "index": 139,
+        "timestamp": "2026-05-06 14:22:26.348361",
+        "data": {
+            "time": "2026-05-06 14:22:26.348325",
+            "mode": "agriculture",
+            "danger_level": "LOW",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260506_142226.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 17270,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 32030,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "00044c6076b7eb903b2a7fdeb2a02ca37490b9256a3b76096525414da9e43264",
+        "nonce": 4098,
+        "hash": "0004c033d0f1983374a3e712e9690380e7b4bb2c99a19fe2877a207a448531f7"
+    },
+    {
+        "index": 140,
+        "timestamp": "2026-05-06 14:22:36.410936",
+        "data": {
+            "time": "2026-05-06 14:22:36.410905",
+            "mode": "agriculture",
+            "danger_level": "HIGH",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260506_142236.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 243914,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "0004c033d0f1983374a3e712e9690380e7b4bb2c99a19fe2877a207a448531f7",
+        "nonce": 1949,
+        "hash": "000fdddf6813b3cf3fda61781c5131ff9c97b3a3f4d9c6a66b64e9a0663a36f7"
+    },
+    {
+        "index": 141,
+        "timestamp": "2026-05-06 14:22:46.418621",
+        "data": {
+            "time": "2026-05-06 14:22:46.418576",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "FORWARD",
+            "message": "Fire detected in farm area. Alphabot approaches and activates water pump.",
+            "image_path": "alerts\\alert_20260506_142246.jpg",
+            "detections": [
+                {
+                    "class_name": "fire",
+                    "confidence": 0.75,
+                    "area": 7852,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 9397,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 87641,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "000fdddf6813b3cf3fda61781c5131ff9c97b3a3f4d9c6a66b64e9a0663a36f7",
+        "nonce": 9598,
+        "hash": "000da63e4579abdb4564c146c51db6cf5394ef3785914703af55e03c5d6cd33a"
+    },
+    {
+        "index": 142,
+        "timestamp": "2026-05-06 14:22:56.428798",
+        "data": {
+            "time": "2026-05-06 14:22:56.428757",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260506_142256.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 147032,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "000da63e4579abdb4564c146c51db6cf5394ef3785914703af55e03c5d6cd33a",
+        "nonce": 3883,
+        "hash": "000076637003d04c719715dc07378d9464e6cf4642373c0eba9bf5fe0a3f8139"
+    },
+    {
+        "index": 143,
+        "timestamp": "2026-05-06 14:23:06.460937",
+        "data": {
+            "time": "2026-05-06 14:23:06.460895",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260506_142306.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 135828,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "000076637003d04c719715dc07378d9464e6cf4642373c0eba9bf5fe0a3f8139",
+        "nonce": 4718,
+        "hash": "0009f60ace060ca83d3b0062aad292292ae4ece601cc48a17ab3ed7b12c48741"
+    },
+    {
+        "index": 144,
+        "timestamp": "2026-05-06 14:23:16.448902",
+        "data": {
+            "time": "2026-05-06 14:23:16.448857",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260506_142316.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 7625,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 127849,
+                    "method": "HSV+ROI"
+                },
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 5253,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "0009f60ace060ca83d3b0062aad292292ae4ece601cc48a17ab3ed7b12c48741",
+        "nonce": 3603,
+        "hash": "0002a3116cabd13978357486858c50fd78d4bc5a9ab2ab924a4a03502d1b868e"
+    },
+    {
+        "index": 145,
+        "timestamp": "2026-05-06 14:23:26.472573",
+        "data": {
+            "time": "2026-05-06 14:23:26.472527",
+            "mode": "agriculture",
+            "danger_level": "MEDIUM",
+            "robot_command": "SEARCH",
+            "message": "Smoke detected in farm area. Alphabot searches for fire source.",
+            "image_path": "alerts\\alert_20260506_142326.jpg",
+            "detections": [
+                {
+                    "class_name": "smoke",
+                    "confidence": 0.6,
+                    "area": 148108,
+                    "method": "HSV+ROI"
+                }
+            ]
+        },
+        "previous_hash": "0002a3116cabd13978357486858c50fd78d4bc5a9ab2ab924a4a03502d1b868e",
+        "nonce": 3473,
+        "hash": "00070c07dbf1af1b4e5b35f35dcb26c59429b8f1cea9e03404906ecb29857ba7"
+    }
+]
